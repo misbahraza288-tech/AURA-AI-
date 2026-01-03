@@ -1,0 +1,9 @@
+{
+  "name": "Aura AI: Ultimate Laptop Companion",
+  "description": "A futuristic AI assistant that acts as a personal companion, controlling a simulated laptop environment with real-time voice, image generation, and video creation capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
